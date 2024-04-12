@@ -5,12 +5,14 @@
   
   <p>Já trabalhei com inúmeras tecnologias, JAVA, PHP, Javascript e atualmente também me aventurando em pesquisas com Python</p>
   <br><br>
+  <div>
+    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=diogoCostaProjects&show_icons=true&theme=dark">
+  </div>
+  <br>
 <div style="left: 50%">
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoCostaProjects&layout=compact&langs_count=16&theme=dark">
 </div>
-<div>
-  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=diogoCostaProjects&show_icons=true&theme=dark">
-</div>
+
 <br>
 <div style="display: inline_block; margin-top: 30px;">
       <img align="center" alt="PHP" height="70" width="70" src="https://camo.githubusercontent.com/688f61bcdee1f1ff99cff1a917828b9b2ddb8fc0b61b2c9971b5513ea8de4d0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667">
