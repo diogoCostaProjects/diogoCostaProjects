@@ -6,4 +6,4 @@
 
 <p>Já trabalhei com inúmeras tecnologias, JAVA, PHP, Javascript e atualmente também me aventurando em pesquisas com Python</p>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=diogoCostaProjects&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=diogoCostaProjects&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/diogoCostaProjects#gh-dark-mode-only)
