@@ -6,7 +6,7 @@
   <p>Já trabalhei com inúmeras tecnologias, JAVA, PHP, Javascript e atualmente também me aventurando em pesquisas com Python</p>
   <br><br>
 <div>
-  <img witdth="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoCostaProjects&layout=compact&langs_count=16&theme=dark">%
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoCostaProjects&layout=compact&langs_count=16&theme=dark">%
   <img heigth="190em" src="https://github-readme-stats.vercel.app/api?username=diogoCostaProjects&show_icons=true&theme=dark">
 </div>
 <br>
