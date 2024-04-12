@@ -7,8 +7,6 @@
   <br><br>
 <div style="left: 50%">
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoCostaProjects&layout=compact&langs_count=16&theme=dark">
-</div>
-<div style="left: 50%">
   <img height="100%" src="https://github-readme-stats.vercel.app/api?username=diogoCostaProjects&show_icons=true&theme=dark">
 </div>
 <br>
