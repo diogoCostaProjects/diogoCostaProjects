@@ -4,7 +4,7 @@
   <p>Atualmente trabalho no departamento de TI de um clube de turismo, mas sempre curioso e aprendendo coisas novas, afinal quem fica parado vira árvore hehehehe</p>
   
   <p>Já trabalhei com inúmeras tecnologias, JAVA, PHP, Javascript e atualmente também me aventurando em pesquisas com Python</p>
-  <br><br>
+  <br>
   <div>
     <img height="100%" src="https://github-readme-stats.vercel.app/api?username=diogoCostaProjects&show_icons=true&theme=dark">
   </div>
