@@ -7,7 +7,7 @@
   <br><br>
 <div>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoCostaProjects&layout=compact&langs_count=16&theme=dark">
-  <img height="80%" src="https://github-readme-stats.vercel.app/api?username=diogoCostaProjects&show_icons=true&theme=dark">
+  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=diogoCostaProjects&show_icons=true&theme=dark">
 </div>
 <br>
 <div style="display: inline_block; margin-top: 30px;">
