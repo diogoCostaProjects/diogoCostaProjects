@@ -12,4 +12,8 @@
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoCostaProjects&layout=compact&langs_count=16&theme=dark">
 </div>
 
+<div style="display: inline_block">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
 
